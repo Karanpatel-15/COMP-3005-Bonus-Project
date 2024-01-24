@@ -1,3 +1,0 @@
-Schools (SchoolID, SchoolName, EID) = {S01, CarletonU, E01; S02, UOttawa, E02; S02, UOttawa, E03}
-Teachers (EID, Name, Age) = {E01, John, 25; E02, Alice, 56; E03, Bob, 45}
-Custodial (EID, Name, Age) = {E04, Dave, 56; E05, Emma, 45}

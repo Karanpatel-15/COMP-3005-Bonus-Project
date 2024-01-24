@@ -1,7 +1,0 @@
-select Age<28(Teachers)
-project EID, Name, Age(Teachers)
-join Teachers, Schools on EID
-difference Teachers, Custodial
-difference Custodial, Teachers
-union Teachers, Custodial
-intersect Teachers, Custodial
